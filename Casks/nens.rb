@@ -1,6 +1,6 @@
 cask "nens" do
-  version "0.1.8"
-  sha256 "d3dfbc3bb08d0f670b7467c35bee1a277b3584a663be51d2db2de8806f9eca6d"
+  version "0.2.1"
+  sha256 "9a2be29796802765eaa77bf2fa05da16dc05eb00fd34453ef2f1a19724984f59"
 
   url "https://github.com/khanhsnd/nens-k8s/releases/download/v#{version}/nens-#{version}-macos-universal.zip"
   name "Nens"
